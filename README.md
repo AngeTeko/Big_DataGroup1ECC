@@ -62,10 +62,10 @@ L'intelligence prédictive est une méthode d'apprentissage automatique. Elle d�
 ## Conclusion - PMO
 
 ## Références
-*[1] Prof. Dr. habil. Jan Lies,"Intelligence marketing et Big Data : Digital Les techniques de marketing en passe de devenir des techniques d'ingénierie sociale en marketing", Université des sciences appliquées FOM, Dortmund (Allemagne), DOI: 10.9781/ijimai.2019.05.002,Publié le 9 mai 2019
+*[1] Prof. Dr. habil. Jan Lies,"Intelligence marketing et Big Data : Digital Les techniques de marketing en passe de devenir des techniques d'ingénierie sociale en* *marketing", Université des sciences appliquées FOM, Dortmund (Allemagne), DOI: 10.9781/ijimai.2019.05.002,Publié le 9 mai 2019*
 
-*[2] Ketty Grishikashvili et al.,"Investigation into Big Data Impact on Digital Marketing",Online Journal of Communication and Media Technologies
-Special Issue – October 2014
+*[2] Ketty Grishikashvili et al.,"Investigation into Big Data Impact on Digital Marketing",Online Journal of Communication and Media Technologies*
+*Special Issue – October 2014*
 
-*[3] Daniil Tykheev,"Big Data in marketing",Saimaa University of Applied SciencesFaculty of Business Administration, LappeenrantaDegree Programme in International Business,Thesis 2018
+*[3] Daniil Tykheev,"Big Data in marketing",Saimaa University of Applied SciencesFaculty of Business Administration, LappeenrantaDegree Programme in International* *Business,Thesis 2018*
 
