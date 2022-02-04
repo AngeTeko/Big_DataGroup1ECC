@@ -21,6 +21,22 @@ Les données sont très diverses, car elles proviennent de différentes sources 
 
 ## L'intelligence Marketing - PMO
 
+## Marketing Digital et Intelligence Marketing
+### Le marketing digital
+Le marketing digital consiste à utiliser les canaux digitaux pour vendre un produit ou promouvoir une marque auprès des consommateurs. Que ce soit les réseaux sociaux, les sites web, les applications mobiles, tous les objets et technologies liées au numérique se retrouve au cœur du marketing digital. Son évolution c’est notamment appuyé sur le développement de l'utilisation d'Internet et des objets connectés. L'objectif fondamental du marketing digital est d'augmenter les visites sur les sites et plateformes web, de transformer ces visites en achats et de fidéliser les clients en établissant une relation régulière avec eux.
+Les principaux leviers du marketing digital sont l'optimisation du site internet, le référencement naturel, la publicité en ligne, les réseaux sociaux, les animations commerciales et l'email marketing.
+Il s’agit ici de mobiliser tous les moyens afin d’attirer les utilisateurs dans un premier temps, puis dans un second temps mettre en œuvre des solutions de captations pour les pousser à l’achat et enfin développer des idées afin de créer la fidélisation à la marque ou au produit. 
+L’utilisation des différents outils digitaux générant des données, l’intelligence marketing vient intégrer ce système en proposant une utilisation de ces données.
+
+### L’intelligence Marketing
+L’intelligence marketing peut se définir comme un système développé afin de collecter, stocker, analyser et interpréter l'information marketing disponible dans l'environnement dans lequel se situe l'entreprise. Il doit permettre de concevoir et développer une stratégie marketing adaptée, mais également de planifier les conditions efficientes de sa mise en application.
+On pourrait ainsi restreindre cette définition au développement d'idées obtenues à partir de données pour les utiliser dans la prise de décision marketing. 
+
+Ainsi, l’intelligence marketing intègre le marketing traditionnel en mettant en avant l’importance des données au sein du métier. De ce fait, il convient de noter que l’intelligence marketing, à travers l’utilisation usuelle des données, réussi à pénétrer toutes les branches du marketing et s’impose comme une habitude au sein des différents systèmes de décision relatifs au marketing digital.
+Toutefois, le terme intelligence marketing est tout sauf nouveau. Dès les années 1960, l’augmentation du volume de données supposait l’importance qu’aurait l’intelligence marketing pour la gestion à l’ère de la révolution de l’information. Aujourd’hui, nous constatons que les données sont omniprésentes au sein de tous les systèmes. Cela nous permet de comprendre aisément qu’une bonne utilisation de ces données pourrait constituer une arme redoutable au service du marketing numérique.
+
+Au travers de l’intelligence marketing, toutes les nouvelles techniques et technologies informatiques relatives aux données trouvent leur place dans le marketing et plus particulièrement dans le marketing digital. Si l’Intelligence Artificielle, le Machine Learning et le Deep Learning sont utilisés afin de reconnaitre les meilleurs (bons) résultats dans les moteurs de recherche, il existe de nombreuses autres techniques de marketing numérique qui utilisent le big data et conduisent à une nouvelle interaction entre le marketing et les clients.
+
 ## Le Big Data et l'Intelligence Marketing - AK
 Le Big Data est en train de révolutionner plusieurs secteurs d’activité. Il part de la collecte au management des données massives en passant par l’analyse de ces données. S’il y a un secteur qui bénéficie des services du big data, c’est bien le marketing. Le numérique de façon générale a transformé ce secteur si bien qu’on est passé d’un marketing traditionnel à un marketing digital. En effet, la gestion du marketing se décompose en une série d'étapes, dont la l'étude de marché, la segmentation des marchés et le positionnement de l'offre de l'entreprise de manière à attirer les segments ciblés. La segmentation du marché fait référence au processus de définition et de subdivision d'un grand marché homogène en segments de marché clairement identifiables ayant des désirs , des besoins ou des objectifs semblables. L'objectif de cette segmentation est de diviser le marché cible en différents groupes de consommateurs.
 Les clients étaient traditionnellement classés en fonction de quatre types de variables de segmentation, géographiques, démographique, psychographique et comportementale.  L’étude de marché ou la segmentation des marchés nécessitent de la data. Avec le big data où nous avons des flux de données massives recueillis à travers plusieurs sources, la segmentation est poussée à l’extrême à telle enseigne qu’on se focalise sur la personnalité du client et de ses valeurs. Le marketing prédictif peut être fait grâce aux techniques de big data et d’intelligence artificielle.
@@ -56,11 +72,9 @@ Marketing Intelligent en tant que marketing prédictif
 
 L'intelligence prédictive est une méthode d'apprentissage automatique. Elle déjà connue pour l'identification d'images et de visages ainsi que pour la reconnaissance vocale et la traduction de langues, et qui trouve désormais sa place dans le marketing numérique.
 
-	
-
-
 ## Conclusion - PMO
 
+L'intelligence marketing a entraîné un changement de paradigme dans le marketing, les techniques numériques décrites cédant aux techniques d'ingénierie sociale - même pour les entreprises qui ne participent pas activement aux initiatives de Big Data. Si les entreprises visent à figurer en bonne place dans les résultats des moteurs de recherche, elles ont besoin d'un contenu intéressant du point de vue des internautes. Ainsi, la data acquière progressivement une place de plus en plus importante dans le Marketing et le Big Data la voie la plus sûre pouvant mener à un traitement optimal de ces données. Toutefois, plusieurs défis sont encore à relevés, tant au niveau de l’adoption de la Big Data qu’au niveau de son intégration au sein du marketing. 
 ## Références
 *[1] Prof. Dr. habil. Jan Lies,"Intelligence marketing et Big Data : Digital Les techniques de marketing en passe de devenir des techniques d'ingénierie sociale en* *marketing", Université des sciences appliquées FOM, Dortmund (Allemagne), DOI: 10.9781/ijimai.2019.05.002,Publié le 9 mai 2019*
 
@@ -68,4 +82,6 @@ L'intelligence prédictive est une méthode d'apprentissage automatique. Elle d�
 *Special Issue – October 2014*
 
 *[3] Daniil Tykheev,"Big Data in marketing",Saimaa University of Applied SciencesFaculty of Business Administration, LappeenrantaDegree Programme in International* *Business,Thesis 2018*
+
+*[4] https://www.theseus.fi/bitstream/handle/10024/145613/Big%20Data%20in%20marketing.pdf?sequence=1
 
