@@ -39,20 +39,20 @@ Le Big data facilite certes le marketing. Cependant, il y  a des défis à relev
 
 ### Marketing Intelligence & Big Data
 
-Le terme marketing Intelligence fait référence au développement d'idées obtenues à partir de données pour les utiliser dans la prise de décision de nature marketing. La multitude de techniques d'exploration de données peuvent aider à atteindre un tel objectif en extrayant, en détectant des modèles ou en prévoyant le comportement des clients à partir de grandes bases de données. Comme mentionné ci-dessus, la recherche de données s'appuyait sur des études de marché pour effectuer des recherches sur les consommateurs. Avec les outils d'analyse du big data, les facteurs clés des décisions marketing peuvent être contrôlés automatiquement, par exemple en exploitant les données des réseaux sociaux. 
+Le terme marketing Intelligent fait référence au développement d'idées obtenues à partir de données pour les utiliser dans la prise de décision de nature marketing. La multitude de techniques d'exploration de données peuvent aider à atteindre un tel objectif en extrayant, en détectant des modèles ou en prévoyant le comportement des clients à partir de grandes bases de données. Comme mentionné ci-dessus, la recherche de données s'appuyait sur des études de marché pour effectuer des recherches sur les consommateurs. Avec les outils d'analyse du big data, les facteurs clés des décisions marketing peuvent être contrôlés automatiquement, par exemple en exploitant les données des réseaux sociaux. 
 Les débuts du marketing informatique, axé sur la mise en œuvre, remontent déjà aux années 1990. Il désigne l'analyse, la planification et la mise en œuvre du marketing à l'aide des technologies de l'information (TI) et de l'augmentation actuelle des applications basées sur le Web.
 
-Il existe plusieurs formes de marketing Intelligence :
+Il existe plusieurs formes de marketing Intelligent :
 
-Marketing Intelligence comme marketing en temps réel
+Marketing Intelligent comme marketing en temps réel
 
 Le marketing en temps réel est basé sur des processus de marketing numérisés. L'analyse en continu est une identification des méthodes d'analyse des flux de données en temps réel. Son objectif est de traiter les données en temps réel si rapidement que les analyses sont également disponibles en temps réel, c'est-à-dire en direct.
 
-Marketing Intelligence comme marketing mobile et de proximité
+Marketing Intelligent comme marketing mobile et de proximité
  
 Les smartphones, accompagnés du web sémantique (web 3.0) permettent aux services basés sur le web d'interagir par reconnaissance vocale avec les internautes et ont rendu le marketing mobile.
 
-Marketing Intelligence en tant que marketing prédictif
+Marketing Intelligent en tant que marketing prédictif
 
 L'intelligence prédictive est une méthode d'apprentissage automatique. Elle déjà connue pour l'identification d'images et de visages ainsi que pour la reconnaissance vocale et la traduction de langues, et qui trouve désormais sa place dans le marketing numérique.
 
